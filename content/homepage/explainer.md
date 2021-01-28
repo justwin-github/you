@@ -8,4 +8,4 @@ header_menu: true
 
 <iframe width="100%" height="315" src="https://www.youtube.com/embed/ypkSNtMrsS8" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
-[BUY CHAINLINK](https://www.binance.com/en/buy-ChainLink)
+[BUY CHAINLINK](https://www.binance.com/en/buy-ChainLink?ref=N76LP4BU)
