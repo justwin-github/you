@@ -1,0 +1,14 @@
+<footer class="site-footer">
+  <div class="inner">
+    {{ with .Site.Params.copyright }}
+      <section class="copyright">{{ . | markdownify }}</section>{{ end }}
+
+
+    <section>{{ echoParam .Site.Params "hidebyline" }}</section>
+    {{ if ne .Site.Params.hidedesignbyline true }}
+      <section>
+        plz send gibz to 0x34864b810D332c9891492c2b849322Cb1f88dc14
+      </section>{{ end }}
+
+  </div>
+</footer>
