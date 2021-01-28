@@ -948,7 +948,7 @@ a.fn-item.active {
     box-sizing: border-box;
     min-height: 240px;
     padding: 15% 0;
-    height: 100%;
+    width: 100%;
     margin-bottom: 0rem;
   }
 
@@ -1025,7 +1025,7 @@ a.fn-item.active {
 
   #site-head {
     padding: 10% 0;
-    height: 65%;
+    height: 100%;
   }
   #header-arrow {
     display: none;
