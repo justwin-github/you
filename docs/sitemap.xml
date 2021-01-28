@@ -3,16 +3,16 @@
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   
   <url>
-    <loc>you.just.win/</loc>
+    <loc>https://you.just.win/</loc>
   </url>
   
   <url>
-    <loc>you.just.win/categories/</loc>
+    <loc>https://you.just.win/categories/</loc>
     <priority>0</priority>
   </url>
   
   <url>
-    <loc>you.just.win/tags/</loc>
+    <loc>https://you.just.win/tags/</loc>
     <priority>0</priority>
   </url>
   

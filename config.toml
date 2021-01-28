@@ -1,4 +1,4 @@
-baseURL = "you.just.win"
+baseURL = "https://you.just.win"
 
 publishDir = "docs"
 
